@@ -1,0 +1,26 @@
+.navbar-default
+{
+    background-color: #55C773;
+    border-color: #55C773;
+}
+.navbar-default .navbar-nav>li>a {
+    color:#fff;
+    font-size: 16px;
+}
+.navbar-brand
+{
+ color: white;
+ font-size: 30px;
+ padding: 10px;
+}
+.show
+{
+    display:  block;
+}
+.hide{
+    display: none;
+}
+.data
+{
+    text-align: center;
+}
